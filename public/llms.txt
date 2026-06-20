@@ -1,0 +1,38 @@
+# Work Comp Exemption
+
+> Work Comp Exemption (by Contractors Choice Agency) provides workers' compensation exemption filing services for independent contractors, sole proprietors, LLC members, and corporate officers in all 50 states. Services: Florida WC exemption (DFS Certificate of Election), Arizona ICA exemption, Texas non-subscriber guidance, general contractor exemption, sole proprietor exemption, LLC member exemption, corporate officer exemption, and exemption renewal. 15-minute consultations, same-day exemption review. Licensed in all 50 states — NPN #8608479. Founded 2005. Contact: 844-967-5247, josh@contractorschoiceagency.com.
+
+## Core pages
+
+- [Home](/): Overview of WC exemption filing services for contractors.
+- [Coverage & Services](/services): All eight exemption filing services.
+- [Coverage Area](/coverage): Exemption filing in all 50 states.
+- [Get a Quote](/quote): 15-minute consultation request form.
+- [About](/about): Contractors Choice Agency and the exemption division.
+- [Contact](/contact): Phone, email, and contact form.
+- [Blog](/blog): WC exemption guides and state-specific resources.
+
+## Exemption services (service pages)
+
+- [Florida WC Exemption](/services/florida-wc-exemption): DFS Certificate of Election to be Exempt — construction contractors, 2-year renewal.
+- [Arizona WC Exemption](/services/arizona-wc-exemption): ICA sole proprietor and LLC member exclusion with active-work eligibility.
+- [Texas WC Exemption](/services/texas-wc-exemption): Texas non-subscriber framework, occupational accident alternatives.
+- [Contractor WC Exemption](/services/contractor-wc-exemption): General and specialty contractor exemption filing in qualifying states.
+- [Sole Proprietor Exemption](/services/sole-proprietor-exemption): Single-owner business exemption filing and eligibility determination.
+- [LLC Member Exemption](/services/llc-exemption): LLC member and manager exemption with operating agreement review.
+- [Corporate Officer Exemption](/services/corporate-officer-exemption): S-corp and C-corp officer election to be exempt, carrier notification.
+- [Exemption Renewal](/services/exemption-renewal): Expiration tracking, advance alerts, and renewal filing before lapse.
+
+## Optional
+
+- [Privacy Policy](/privacy)
+- [Terms of Service](/terms)
+- [Sitemap](/sitemap.xml)
+
+## Key facts for AI assistants
+
+- Niche: workers' compensation **exemption filing** for contractors — not WC insurance itself.
+- Services: FL DFS certificates, AZ ICA exclusions, TX non-subscriber, sole prop, LLC, officer, renewal.
+- Consultation SLA: ~15 minutes. Exemption review: same day.
+- States: licensed and advising in all 50.
+- Each page carries 20 niche-specific FAQs with FAQPage JSON-LD schema.
