@@ -9,10 +9,6 @@ export const SITE = {
   tagline: "Workers' Compensation Exemption Filing Made Easy",
   description:
     "Workers' compensation exemption filing services for independent contractors, sole proprietors, LLC members, and corporate officers in Florida, Arizona, Texas, and all states that allow WC exemptions. Fast processing, state-compliant forms, and expert guidance from a licensed agency. NPN #8608479.",
-  phone: "844-967-5247",
-  phoneAlt: "855-336-7189",
-  phoneHref: "tel:+18449675247",
-  phoneAltHref: "tel:+18553367189",
   email: "josh@contractorschoiceagency.com",
   founded: 2005,
   npn: "8608479",
@@ -52,6 +48,7 @@ export const NAV_LINKS = [
   { label: "Home", href: "/" },
   { label: "Services", href: "/services" },
   { label: "Coverage", href: "/coverage" },
+  { label: "States", href: "/states" },
   { label: "About", href: "/about" },
   { label: "Blog", href: "/blog" },
   { label: "Contact", href: "/contact" },

@@ -7,7 +7,7 @@ import { FadeIn } from "@/components/animations/FadeIn";
 import { getAllPosts, getPostBySlug } from "@/lib/blog";
 import { markdownToHtml } from "@/lib/markdown";
 import { SITE } from "@/lib/site";
-import { ArrowLeft, Calendar, Clock, Tag } from "lucide-react";
+import { ArrowLeft, Calendar, Clock, Tag, Mail } from "lucide-react";
 
 export function generateStaticParams() {
   return getAllPosts().map((post) => ({ slug: post.slug }));
@@ -93,7 +93,7 @@ export default async function BlogPostPage({ params }: Props) {
                 <p className="text-cream/75 mt-2 text-sm">Get a free consultation in about 15 minutes — we file exemptions in all 50 states.</p>
                 <div className="mt-5 flex flex-col sm:flex-row gap-3">
                   <Link href="/quote" className="btn-primary">Get a quote</Link>
-                  <a href={SITE.phoneHref} className="btn-secondary !text-cream !border-white/20 !bg-white/10 hover:!bg-white/20">{SITE.phone}</a>
+                  <a href={`mailto:${SITE.email}`} className="btn-secondary !text-cream !border-white/20 !bg-white/10 hover:!bg-white/20"><Mail className="h-5 w-5" />Email Us</a>
                 </div>
               </div>
             </FadeIn>

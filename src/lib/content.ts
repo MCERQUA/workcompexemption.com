@@ -134,7 +134,7 @@ export const COPY = {
     phonePlaceholder: "(813) 555-0100",
     messagePlaceholder:
       "State, business structure (sole prop, LLC, S-corp), trade type, number of owners, current WC situation, or anything else that helps us advise you correctly…",
-    errorMessage: "Something went wrong. Please call us at 844-967-5247 or try again.",
+    errorMessage: "Something went wrong. Please email us or try again.",
     trustNicheTitle: "Built for contractors",
     trustNicheDesc: "WC exemption guidance for your specific state and business structure — not generic advice.",
   },
@@ -142,7 +142,7 @@ export const COPY = {
     h1Lead: "Let's talk about your",
     h1Highlight: "WC exemption",
     lead: "Questions about your state's exemption rules, a filing you need done fast, or a renewal coming up — reach a person who knows contractor WC exemptions, not a queue.",
-    errorMessage: "Something went wrong. Please call us at 844-967-5247.",
+    errorMessage: "Something went wrong. Please email us and we'll pick it up from there.",
   },
   coveragePage: {
     metaTitle: "Workers' Comp Exemption Filing — All 50 States",
@@ -207,7 +207,7 @@ export const HOME_FAQS = [
   { q: "How much does a Florida WC exemption cost?", a: "The Florida DFS charges a $50 application fee per exemption. Our service fee for preparing, submitting, and tracking your FL exemption is separate — but the state filing itself is $50. For renewal filings, the same $50 applies every two years. We'll tell you the total cost up front before you commit to anything." },
   { q: "What documents do I need to file a WC exemption?", a: "It depends on your state and business structure. For a Florida exemption, you typically need your contractor license number, Federal EIN, and business registration. For LLC and corporate officer exemptions, state agencies often want operating agreements or articles of incorporation showing your ownership percentage. We tell you exactly what your state requires before we start." },
   { q: "Can you file a WC exemption for a sole proprietor with no employees?", a: "Yes — and for sole proprietors in many states, an exemption is the fastest and most cost-effective path. If you have no employees and work independently, you often have no legal obligation to carry workers' comp, but a formal exemption certificate is what proves that to general contractors and inspectors. We file it for you." },
-  { q: "How fast can I get a WC exemption filed?", a: "In Florida, exemptions filed through the DFS portal are typically issued within 1–3 business days. In Arizona and other states, processing times vary. We file the same day we have your information and track status until your certificate is issued. For urgent situations — like a job starting tomorrow — call us at 844-967-5247." },
+  { q: "How fast can I get a WC exemption filed?", a: "In Florida, exemptions filed through the DFS portal are typically issued within 1–3 business days. In Arizona and other states, processing times vary. We file the same day we have your information and track status until your certificate is issued. For urgent situations — like a job starting tomorrow — tell us in your request and we will prioritise it." },
   { q: "Do you file exemptions in states other than Florida, Arizona, and Texas?", a: "Yes. Contractors Choice Agency advises on WC exemption eligibility in all 50 states and files exemptions in every state that offers a formal certificate or election process — Georgia, Tennessee, North Carolina, South Carolina, and more. Call us for your specific state and we'll tell you exactly what's available." },
 ];
 
