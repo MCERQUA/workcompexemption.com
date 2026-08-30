@@ -99,7 +99,7 @@
     position: absolute;
     top: 0; left: 0; right: 0;
     height: 6px;
-    background: linear-gradient(90deg, #1E3A8A 0%, #2E52B2 24%, #475569 58%, #2563EB 100%);
+    background: linear-gradient(90deg, #8A3E1A 0%, #B4552D 24%, #7A6C58 58%, #D98F2B 100%);
   }
   .pill { @apply inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-xs font-heading font-semibold uppercase tracking-wider; }
   .pill-clay { @apply pill bg-clay/10 text-clay border border-clay/20; }
@@ -129,15 +129,15 @@
       radial-gradient(ellipse at bottom right, rgba(71, 85, 105, 0.07) 0%, transparent 50%),
       var(--bg-cream);
   }
-  /* Compliance band — layered blues = professional document stripe */
+  /* Compliance band — layered warm earth tones = document stripe */
   .horizon-band {
     background: linear-gradient(180deg,
-      #1E3A8A 0% 18%, #2E52B2 18% 34%, #2563EB 34% 48%,
-      #2E52B2 48% 62%, #1E3A8A 62% 78%, #475569 78% 100%);
+      #8A3E1A 0% 18%, #B4552D 18% 34%, #D98F2B 34% 48%,
+      #B4552D 48% 62%, #8A3E1A 62% 78%, #7A6C58 78% 100%);
   }
   .grain {
     background-image:
-      repeating-linear-gradient(92deg, rgba(30,58,138,0.0) 0px, rgba(30,58,138,0.0) 10px, rgba(255,255,255,0.025) 10px, rgba(255,255,255,0.025) 11px),
+      repeating-linear-gradient(92deg, rgba(138,62,26,0.0) 0px, rgba(138,62,26,0.0) 10px, rgba(255,255,255,0.025) 10px, rgba(255,255,255,0.025) 11px),
       repeating-linear-gradient(88deg, rgba(0,0,0,0.0) 0px, rgba(0,0,0,0.0) 23px, rgba(0,0,0,0.03) 23px, rgba(0,0,0,0.03) 24px);
   }
   .dotted-warm {
@@ -148,7 +148,7 @@
   .arch-divider::after {
     content: ""; position: absolute; inset: 0; margin: auto;
     width: 10rem; height: 1.4rem;
-    background: linear-gradient(90deg, #1E3A8A 0% 18%, #2E52B2 18% 40%, #2563EB 40% 62%, #475569 62% 82%, #1E3A8A 82% 100%);
+    background: linear-gradient(90deg, #8A3E1A 0% 18%, #B4552D 18% 40%, #D98F2B 40% 62%, #7A6C58 62% 82%, #8A3E1A 82% 100%);
     border-radius: 0.5rem; opacity: 0.92;
   }
 
@@ -161,7 +161,7 @@
   .prose-warm li::before {
     content: ""; position: absolute; left: 0; top: 0.55em;
     width: 1.1rem; height: 0.5rem;
-    background: linear-gradient(90deg, #1E3A8A 0% 35%, #2563EB 35% 70%, #475569 70% 100%);
+    background: linear-gradient(90deg, #8A3E1A 0% 35%, #D98F2B 35% 70%, #7A6C58 70% 100%);
     border-radius: 0.15rem 0.5rem 0.15rem 0.5rem; opacity: 0.9;
   }
   .prose-warm strong { @apply text-espresso font-semibold; }
