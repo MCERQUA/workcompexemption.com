@@ -16,7 +16,7 @@ export const COPY = {
       "Florida, Arizona, Texas, and 40+ states allow independent contractors, sole proprietors, LLC members, and corporate officers to file a workers' compensation exemption. We handle the paperwork, track expiration dates, and make sure your exemption is valid when a general contractor or inspector asks for it.",
     statValue: "5,000+",
     statLabel: "Exemptions filed for contractors — sole proprietors, LLC members, officers, and trades",
-    imageAlt: "Contractor reviewing workers compensation exemption paperwork at a job site",
+    imageAlt: "Self-employed carpenter measuring a wooden beam with a tape measure in a sunlit workshop",
   },
   nav: { ariaLabel: "Work Comp Exemption home" },
   footer: {
@@ -44,7 +44,7 @@ export const COPY = {
     h2Lead: "WC exemption filing.",
     h2Highlight: "All 50 states.",
     lead: "From Florida's Certificate of Election to Arizona's ICA exemption to Texas's non-subscriber options, Contractors Choice Agency advises contractors on exemption eligibility and handles filing in every state that offers it.",
-    imageAlt: "Contractor at a job site with workers compensation exemption certificate — national exemption filing",
+    imageAlt: "Construction crew working on the upper floors of a timber-framed building beneath a tower crane",
     badgeTitle: "National exemption filing for contractors.",
     badgeSub: "Advising and filing WC exemptions in all 50 states since 2005.",
   },
