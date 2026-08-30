@@ -44,7 +44,7 @@ export const COPY = {
     h2Lead: "WC exemption filing.",
     h2Highlight: "All 50 states.",
     lead: "From Florida's Certificate of Election to Arizona's ICA exemption to Texas's non-subscriber options, Contractors Choice Agency advises contractors on exemption eligibility and handles filing in every state that offers it.",
-    imageAlt: "Construction crew working on the upper floors of a timber-framed building beneath a tower crane",
+    imageAlt: "Three construction workers in hard hats framing a timber roof at golden hour",
     badgeTitle: "National exemption filing for contractors.",
     badgeSub: "Advising and filing WC exemptions in all 50 states since 2005.",
   },
