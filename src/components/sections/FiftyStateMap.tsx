@@ -54,7 +54,7 @@ export function FiftyStateMap({
                       width={TILE}
                       height={TILE}
                       rx={6}
-                      className="fill-clay/12 stroke-clay/35 hover:fill-clay/30 transition-colors"
+                      className="fill-clay/15 stroke-clay/35 hover:fill-clay/30 transition-colors"
                       strokeWidth={1}
                     />
                     <text
