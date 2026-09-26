@@ -11,17 +11,17 @@
 
 @layer base {
   :root {
-    --bg-cream: #F8FAFC;
-    --bg-sand: #EFF4FB;
+    --bg-cream: #FBF8F3;
+    --bg-sand: #F3EEE6;
     --bg-white: #FFFFFF;
-    --clay: #1E3A8A;
-    --clay-dark: #1E2D6B;
-    --sage: #475569;
-    --gold: #2563EB;
-    --espresso: #0F172A;
-    --cocoa: #1E293B;
-    --mocha: #64748B;
-    --adobe: #CBD5E1;
+    --clay: #8A3E1A;
+    --clay-dark: #6B2F13;
+    --sage: #57534E;
+    --gold: #D98F2B;
+    --espresso: #1C1410;
+    --cocoa: #2E241E;
+    --mocha: #6B625A;
+    --adobe: #E0D6CA;
     --radius: 1rem;
   }
 
@@ -49,7 +49,7 @@
   }
 
   ::selection {
-    background: rgba(30, 58, 138, 0.16);
+    background: rgba(138, 62, 26, 0.16);
     color: var(--espresso);
   }
 }
@@ -114,19 +114,19 @@
   .bg-sonoran {
     background-color: var(--bg-cream);
     background-image:
-      radial-gradient(circle at 15% 15%, rgba(30, 58, 138, 0.08) 0%, transparent 35%),
-      radial-gradient(circle at 85% 75%, rgba(71, 85, 105, 0.06) 0%, transparent 40%);
+      radial-gradient(circle at 15% 15%, rgba(138, 62, 26, 0.08) 0%, transparent 35%),
+      radial-gradient(circle at 85% 75%, rgba(87, 83, 78, 0.06) 0%, transparent 40%);
   }
   .bg-sonoran-sand {
     background-color: var(--bg-sand);
     background-image:
-      radial-gradient(circle at 70% 20%, rgba(30, 58, 138, 0.07) 0%, transparent 45%),
-      radial-gradient(circle at 20% 80%, rgba(37, 99, 235, 0.08) 0%, transparent 40%);
+      radial-gradient(circle at 70% 20%, rgba(138, 62, 26, 0.07) 0%, transparent 45%),
+      radial-gradient(circle at 20% 80%, rgba(217, 143, 43, 0.08) 0%, transparent 40%);
   }
   .bg-warm-radial {
     background:
-      radial-gradient(ellipse at top, rgba(30, 58, 138, 0.10) 0%, transparent 55%),
-      radial-gradient(ellipse at bottom right, rgba(71, 85, 105, 0.07) 0%, transparent 50%),
+      radial-gradient(ellipse at top, rgba(138, 62, 26, 0.10) 0%, transparent 55%),
+      radial-gradient(ellipse at bottom right, rgba(87, 83, 78, 0.07) 0%, transparent 50%),
       var(--bg-cream);
   }
   /* Compliance band — layered warm earth tones = document stripe */
@@ -141,7 +141,7 @@
       repeating-linear-gradient(88deg, rgba(0,0,0,0.0) 0px, rgba(0,0,0,0.0) 23px, rgba(0,0,0,0.03) 23px, rgba(0,0,0,0.03) 24px);
   }
   .dotted-warm {
-    background-image: radial-gradient(circle, rgba(30, 58, 138, 0.12) 1px, transparent 1px);
+    background-image: radial-gradient(circle, rgba(138, 62, 26, 0.12) 1px, transparent 1px);
     background-size: 24px 24px;
   }
   .arch-divider { position: relative; height: 3rem; width: 100%; }
