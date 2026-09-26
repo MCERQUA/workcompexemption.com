@@ -156,8 +156,3 @@ export const STATS = [
   { value: 50, suffix: "", label: "States licensed & advising", prefix: "" },
 ] as const;
 
-export const TESTIMONIALS = [
-  { quote: "I had no idea my Florida WC exemption had expired until a general contractor called me off a job. These folks filed a new one same day and I was back to work the next morning. Lifesaver.", name: "Mike T.", role: "Roofing Contractor", location: "Tampa, FL" },
-  { quote: "As a sole proprietor electrician in Arizona, I was paying for workers' comp on myself that I didn't need. They walked me through the ICA exemption process and I got that money back. Wish I'd called sooner.", name: "Carlos R.", role: "Electrical Contractor", location: "Phoenix, AZ" },
-  { quote: "I thought Texas WC was mandatory — it's not, but the rules around non-subscriber status are confusing. They explained my options clearly, helped me set up an occupational accident policy instead, and I saved a ton.", name: "James B.", role: "General Contractor", location: "Dallas, TX" },
-] as const;

@@ -51,11 +51,6 @@ export const COPY = {
   process: {
     lead: "No state agency runaround. A quick consultation, the right forms for your state, and a filed exemption you can use on the job — handled start to finish.",
   },
-  testimonials: {
-    eyebrow: "From contractors",
-    h2Lead: "Contractors who got their",
-    h2Highlight: "exemption filed right",
-  },
   finalCta: {
     h2Lead: "File Your WC Exemption",
     h2Highlight: "and get back to work.",
